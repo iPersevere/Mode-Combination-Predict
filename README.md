@@ -1,0 +1,2 @@
+# Mode-Combination-Predict
+This repository aims to traverse all of 35 intra modes and choose two from it twice times. It notes that the two modes selected can be same, so it can be easily reproduce by two for loop. The goal of the experimetn is to find wheather the performance can better, because there is a trade-off between residual income and additional mode bit cost. The experiment is implemented in HM-16.20 and satified CTC. The performace is waitting for optimizing.
